@@ -78,8 +78,6 @@ client.on('ready', () => {
     }
     //announce_update();
     //archive_logs();
-    //var lobby = client.channels.cache.get("1176366339112312943");
-    //lobby.send("h <:hentai:597998303287705622>");
     //Clean_Monster_Data()
     //parse_history();
     //Clean_Score_Data();
